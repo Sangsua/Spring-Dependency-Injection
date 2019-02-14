@@ -8,7 +8,7 @@ import org.springframework.stereotype.Controller;
 public class MyController {
 
     IGreetingService iGreetingService;
-    public MyController(@Qualifier("primarySpanishGreetingService") IGreetingService iGreetingService) {
+    public MyController(IGreetingService iGreetingService) {
         this.iGreetingService = iGreetingService;
     }
 
