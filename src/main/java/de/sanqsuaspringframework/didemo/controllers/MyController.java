@@ -8,12 +8,11 @@ import org.springframework.stereotype.Controller;
 public class MyController {
 
     IGreetingService iGreetingService;
-
-    public MyController(IGreetingService iGreetingService) {
+    public MyController(@Qualifier("primarySpanishGreetingService") IGreetingService iGreetingService) {
         this.iGreetingService = iGreetingService;
     }
 
-    public String sayhello(){
+    public String sayHello(){
        System.out.println("MyController: First Hello");
         return iGreetingService.sayGreeting();
     }
