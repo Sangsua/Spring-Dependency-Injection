@@ -12,7 +12,6 @@ public class MyController {
     }
 
     public String sayHello(){
-       System.out.println("MyController: First Hello");
         return iGreetingService.sayGreeting();
     }
 }
