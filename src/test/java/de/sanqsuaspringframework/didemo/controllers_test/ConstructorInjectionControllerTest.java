@@ -12,11 +12,12 @@ public class ConstructorInjectionControllerTest {
     ConstructorInjectedController constructorInjectedController;
 
     @Before
-    public void setUp() throws  Exception{
+    public void setUp() throws Exception {
         this.constructorInjectedController = new ConstructorInjectedController(new GreetingServiceImplementation());
     }
+
     @Test
-    public void testGreeting(){
-        assertEquals(GreetingServiceImplementation.HELLO_GUYS,constructorInjectedController.sayHello());
+    public void testGreeting() {
+        assertEquals(GreetingServiceImplementation.HELLO_GUYS, constructorInjectedController.sayHello());
     }
 }

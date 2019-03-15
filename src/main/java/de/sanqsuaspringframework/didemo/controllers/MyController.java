@@ -1,17 +1,18 @@
 package de.sanqsuaspringframework.didemo.controllers;
 
-import de.sanqsuaspringframework.didemo.services.IGreetingService;
+import de.sanqsuaspringframework.didemo.services.GreetingService;
 import org.springframework.stereotype.Controller;
 
 @Controller
 public class MyController {
 
-    IGreetingService iGreetingService;
-    public MyController(IGreetingService iGreetingService) {
-        this.iGreetingService = iGreetingService;
+    GreetingService greetingService;
+
+    public MyController(GreetingService greetingService) {
+        this.greetingService = greetingService;
     }
 
-    public String sayHello(){
-        return iGreetingService.sayGreeting();
+    public String sayHello() {
+        return greetingService.sayGreeting();
     }
 }

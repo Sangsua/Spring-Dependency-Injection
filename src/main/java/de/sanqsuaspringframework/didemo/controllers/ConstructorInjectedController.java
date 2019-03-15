@@ -1,19 +1,19 @@
 package de.sanqsuaspringframework.didemo.controllers;
 
-import de.sanqsuaspringframework.didemo.services.IGreetingService;
+import de.sanqsuaspringframework.didemo.services.GreetingService;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 
 @Controller
 public class ConstructorInjectedController {
-    private IGreetingService iGreetingService;
+    private GreetingService greetingService;
 
 
-    public ConstructorInjectedController(@Qualifier("constructorGreetingService") IGreetingService iGreetingService) {
-        this.iGreetingService = iGreetingService;
+    public ConstructorInjectedController(@Qualifier("constructorGreetingService") GreetingService greetingService) {
+        this.greetingService = greetingService;
     }
 
     public String sayHello() {
-        return iGreetingService.sayGreeting();
+        return greetingService.sayGreeting();
     }
 }

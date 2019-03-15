@@ -3,7 +3,7 @@ package de.sanqsuaspringframework.didemo.repositories;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public class PrimaryGreetingRepositoryImpl implements IPrimaryGreetingRepository {
+public class GreetingRepositoryImpl implements GreetingRepository {
     @Override
     public String getGermanGreeting() {
         return "Deutscher Gruß: Hallo";

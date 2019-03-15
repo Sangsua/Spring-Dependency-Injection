@@ -12,13 +12,13 @@ public class SetterInjectionControllerTest {
     private SetterInjectedController setterInjectedController;
 
     @Before
-    public void setUp()throws Exception{
+    public void setUp() throws Exception {
         this.setterInjectedController = new SetterInjectedController();
         this.setterInjectedController.setGreetingService(new GreetingServiceImplementation());
     }
 
     @Test
-    public void testGreeting() throws Exception{
-        assertEquals(GreetingServiceImplementation.HELLO_GUYS,setterInjectedController.sayHello());
+    public void testGreeting() throws Exception {
+        assertEquals(GreetingServiceImplementation.HELLO_GUYS, setterInjectedController.sayHello());
     }
 }

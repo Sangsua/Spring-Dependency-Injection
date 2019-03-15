@@ -1,6 +1,6 @@
 package de.sanqsuaspringframework.didemo.services;
 
-import de.sanqsuaspringframework.didemo.repositories.IPrimaryGreetingRepository;
+import de.sanqsuaspringframework.didemo.repositories.GreetingRepository;
 import org.springframework.context.annotation.Primary;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
@@ -8,16 +8,16 @@ import org.springframework.stereotype.Service;
 @Service
 @Profile("es")
 @Primary
-public class PrimarySpanishGreetingService implements IGreetingService {
+public class PrimarySpanishGreetingService implements GreetingService {
 
-    IPrimaryGreetingRepository iPrimaryGreetingRepository;
+    GreetingRepository greetingRepository;
 
-    public PrimarySpanishGreetingService(IPrimaryGreetingRepository iPrimaryGreetingRepository) {
-        this.iPrimaryGreetingRepository = iPrimaryGreetingRepository;
+    public PrimarySpanishGreetingService(GreetingRepository greetingRepository) {
+        this.greetingRepository = greetingRepository;
     }
 
     @Override
     public String sayGreeting() {
-        return iPrimaryGreetingRepository.getSpanishGreeting();
+        return greetingRepository.getSpanishGreeting();
     }
 }
