@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f2877e2-c41f-48e6-b9ce-bb846e71fbb6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="di-demo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="di-demo" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="di-demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="di-demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/de/sanqsuaspringframework/didemo/controllers_test/ConstructorInjectionControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/ConstructoGreetingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/ConstructorGreetingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/SetterGreetingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/IGreetingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/GreetingServiceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/repositories/GreetingRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/repositories/GreetingRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/PrimaryGermanGreetingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/PrimaryGreetingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/PrimaryEnglishGreetingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/PrimarySpanishGreetingService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/de/sanqsuaspringframework/didemo/controllers_test/SetterInjectionControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/de/sanqsuaspringframework/didemo/controllers_test/PropertyInjectedControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/controllers/MyController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/de/sanqsuaspringframework/didemo/repositories/PrimaryGreetingRepositoryImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/BeanLifeCycleDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/CustomBeanPostProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/controllers/ConstructorInjectedController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/controllers/PropertyInjectedController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/controllers/SetterInjectedController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/repositories/PrimaryGreetingRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/repositories/IPrimaryGreetingRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/repositories/PrimaryGreetingRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/GreetingServiceFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/config/GreetingServiceConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/LifeCycleDemoBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/DiDemoApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="200" />
+    <option name="y" value="35" />
+    <option name="width" value="1615" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="di-demo" type="58d84e3e:PackageViewProjectNode" />
+              <item name="de.sanqsuaspringframework.di-demo" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="di-demo" type="58d84e3e:PackageViewProjectNode" />
+              <item name="de.sanqsuaspringframework.di-demo" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="de.sanqsuaspringframework.di-demo.main" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="di-demo" type="58d84e3e:PackageViewProjectNode" />
+              <item name="de.sanqsuaspringframework.di-demo" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="de.sanqsuaspringframework.di-demo.main" type="616d4139:PackageViewModuleNode" />
+              <item name="de.sanqsuaspringframework.didemo" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552665564608" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-petclinic" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="de.sanqsuaspringframework.didemo.repositories" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="de.sanqsuaspringframework.didemo.services" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DiDemoApplication">
+    <configuration name="ConstructorInjectionControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="de.sanqsuaspringframework.di-demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.sanqsuaspringframework.didemo.controllers_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.sanqsuaspringframework.didemo.controllers_test" />
+      <option name="MAIN_CLASS_NAME" value="de.sanqsuaspringframework.didemo.controllers_test.ConstructorInjectionControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertyInjectedControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="de.sanqsuaspringframework.di-demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.sanqsuaspringframework.didemo.controllers_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.sanqsuaspringframework.didemo.controllers_test" />
+      <option name="MAIN_CLASS_NAME" value="de.sanqsuaspringframework.didemo.controllers_test.PropertyInjectedControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetterInjectionControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="de.sanqsuaspringframework.di-demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.sanqsuaspringframework.didemo.controllers_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.sanqsuaspringframework.didemo.controllers_test" />
+      <option name="MAIN_CLASS_NAME" value="de.sanqsuaspringframework.didemo.controllers_test.SetterInjectionControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="de.sanqsuaspringframework.didemo.controllers_test in de.sanqsuaspringframework.di-demo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="de.sanqsuaspringframework.di-demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.sanqsuaspringframework.didemo.controllers_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.sanqsuaspringframework.didemo.controllers_test" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="de.sanqsuaspringframework.di-demo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="de.sanqsuaspringframework.didemo.DiDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.de.sanqsuaspringframework.didemo.controllers_test in de.sanqsuaspringframework.di-demo.test" />
+        <item itemvalue="JUnit.ConstructorInjectionControllerTest" />
+        <item itemvalue="JUnit.SetterInjectionControllerTest" />
+        <item itemvalue="JUnit.PropertyInjectedControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f2877e2-c41f-48e6-b9ce-bb846e71fbb6" name="Default Changelist" comment="" />
+      <created>1549887664842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549887664842</updated>
+      <workItem from="1549887673566" duration="12489000" />
+      <workItem from="1549981964694" duration="6174000" />
+      <workItem from="1550102803516" duration="6678000" />
+      <workItem from="1550155374117" duration="936000" />
+      <workItem from="1550172383271" duration="3983000" />
+      <workItem from="1550198794395" duration="14741000" />
+      <workItem from="1550328785309" duration="10591000" />
+      <workItem from="1551020643897" duration="33000" />
+      <workItem from="1551203920272" duration="2474000" />
+      <workItem from="1551404552548" duration="719000" />
+      <workItem from="1551999823747" duration="607000" />
+      <workItem from="1552024770900" duration="768000" />
+      <workItem from="1552622513836" duration="4656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SetterInjectionControllerTest - 2019.02.11 at 17h 49m 29s.xml">
+      <configuration name="SetterInjectionControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetterInjectionControllerTest - 2019.02.11 at 17h 54m 04s.xml">
+      <configuration name="SetterInjectionControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConstructorInjectionControllerTest - 2019.02.11 at 17h 54m 19s.xml">
+      <configuration name="ConstructorInjectionControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConstructorInjectionControllerTest - 2019.02.11 at 18h 47m 07s.xml">
+      <configuration name="ConstructorInjectionControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="de_sanqsuaspringframework_didemo_controllers_test_in_de_sanqsuaspringframework_di-demo_test - 2019.02.15 at 06h 28m 27s.xml">
+      <configuration name="de.sanqsuaspringframework.didemo.controllers_test in de.sanqsuaspringframework.di-demo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="de_sanqsuaspringframework_didemo_controllers_test_in_de_sanqsuaspringframework_di-demo_test - 2019.02.15 at 19h 58m 58s.xml">
+      <configuration name="de.sanqsuaspringframework.didemo.controllers_test in de.sanqsuaspringframework.di-demo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="de_sanqsuaspringframework_didemo_controllers_test_in_de_sanqsuaspringframework_di-demo_test - 2019.02.15 at 19h 59m 14s.xml">
+      <configuration name="de.sanqsuaspringframework.didemo.controllers_test in de.sanqsuaspringframework.di-demo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="de_sanqsuaspringframework_didemo_controllers_test_in_de_sanqsuaspringframework_di-demo_test - 2019.02.15 at 19h 59m 32s.xml">
+      <configuration name="de.sanqsuaspringframework.didemo.controllers_test in de.sanqsuaspringframework.di-demo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="de_sanqsuaspringframework_didemo_controllers_test_in_de_sanqsuaspringframework_di-demo_test - 2019.02.15 at 19h 59m 43s.xml">
+      <configuration name="de.sanqsuaspringframework.didemo.controllers_test in de.sanqsuaspringframework.di-demo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="de_sanqsuaspringframework_didemo_controllers_test_in_de_sanqsuaspringframework_di-demo_test - 2019.02.15 at 20h 00m 16s.xml">
+      <configuration name="de.sanqsuaspringframework.didemo.controllers_test in de.sanqsuaspringframework.di-demo.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64849000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.498" visible="true" weight="0.29250336" />
+      <window_info id="Structure" order="7" sideWeight="0.502" side_tool="true" weight="0.2671141" />
+      <window_info anchor="bottom" id="Thumbnails" weight="0.32933334" />
+      <window_info anchor="bottom" id="Spring" order="0" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32933334" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.3297587" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3297587" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.3295302" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/de/sanqsuaspringframework/didemo/DiDemoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.4.RELEASE/a2d83ea589284f0d7cdc4ad4576eb07a08164ed7/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/Autowired.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="81" column="18" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/SetterGreetingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/de/sanqsuaspringframework/didemo/controllers_test/SetterInjectionControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="16" column="68" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/de/sanqsuaspringframework/didemo/controllers_test/PropertyInjectedControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/de/sanqsuaspringframework/didemo/repositories/PrimaryGreetingRepositoryImplTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/de/sanqsuaspringframework/didemo/controllers_test/ConstructorInjectionControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="15" column="96" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.4.RELEASE/a2d83ea589284f0d7cdc4ad4576eb07a08164ed7/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/config/BeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="84" column="49" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/controllers/ConstructorInjectedController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/controllers/SetterInjectedController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/PrimarySpanishGreetingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/ConstructorGreetingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/controllers/PropertyInjectedController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/controllers/MyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/PrimaryGermanGreetingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/repositories/GreetingRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/repositories/GreetingRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/GreetingServiceImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/GreetingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" selection-start-line="2" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/CustomBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/GreetingServiceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/services/PrimaryEnglishGreetingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/config/GreetingServiceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/LifeCycleDemoBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1697#1698#0" expanded="true" />
+            <element signature="e#1787#1788#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/sanqsuaspringframework/didemo/DiDemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
